@@ -1,5 +1,4 @@
-# Pokemon Proxying
-
+# Deckbox Labels
 This is a script I made which uses automatically generates deckbox labels based on a csv file.
 
 ## Usage
