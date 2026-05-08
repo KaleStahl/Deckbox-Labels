@@ -1,5 +1,5 @@
 # Deckbox Labels
-This is a script I made which uses automatically generates deckbox labels based on a csv file.
+This is a script I made which uses automatically generates deckbox labels based on a csv file generated from my [Collection Spreadsheet](https://docs.google.com/spreadsheets/d/1yQj3a01UHcpLyjyHxvb3VPv6R9NJPNF88hA6ThCYRzA/edit?usp=sharing).
 
 ## Usage
 
