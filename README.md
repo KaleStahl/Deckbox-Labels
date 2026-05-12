@@ -3,7 +3,7 @@ This is a script I made which uses automatically generates deckbox labels based 
 
 ## Usage
 - Download the sheet "Auto Generated Data" as a .csv and save it as "Label_data.csv". The sheet MUST follow column naming exactly. If you want to make separate labels than me, make a copy of the sheet and edit it before downloading.
-- Run the .exe and confirm your desired settings. If settings are incorrect, it will prompt you to enter the correct settings.
+- Run the .exe and confirm your desired settings. If settings are incorrect, it will prompt you to enter the correct settings. No entry will keep the default.
 - Once settings are confirmed, the program will generate a .pdf with the labels and attempt to open it in the default program.
 
 ## Known Issues
